@@ -5,7 +5,7 @@ urls = (
     '/hello', 'Index',
     '/test', 'Test',
     '/hello2', 'Index2',
-    '/test2', 'Index2'
+    '/test3', 'Index3'
 )
 
 app = web.application(urls, globals())
